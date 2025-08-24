@@ -72,6 +72,3 @@ To reproduce this project, please follow these steps:
     pip install -r requirements.txt
     ```
 4.  **Run the Jupyter notebook** `Main.ipynb` to see the full analysis and modeling process.
-
----
-*This project was completed as part of the Finance Club, IIT Roorkee's Open Project Summer 2025 program.*.
