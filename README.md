@@ -29,7 +29,7 @@ The primary objective is to build a robust binary classification model that accu
 
 ## Key Results
 
-- **Champion Model:** A tuned **CatBoost Classifier** was selected for its superior performance and interpretability.
+- **Best Model:** A tuned **CatBoost Classifier** was selected for its superior performance and interpretability.
 - **Performance:** The final model achieved a maximum **F2 Score of 0.6027** on the hold-out test set.
 - **Optimal Threshold:** The optimal probability threshold was identified as **0.4217**, balancing high recall with acceptable precision.
 
@@ -59,8 +59,8 @@ To reproduce this project, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AIchemizt/Projects.git
-    cd Projects/Minimizing\ Loan\ Loss
+    git clone https://github.com/AIchemizt/Minimizing-Loan-Loss.git
+    cd Minimizing-Loan-Loss
     ```
 2.  **Create a virtual environment and activate it:**
     ```bash
